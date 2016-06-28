@@ -1,8 +1,10 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\changeScene.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\gameManagement.cs">
     <Files>
-      <File FileName="Assets\scripts\score.cs" Line="27" Column="4" />
+      <File FileName="Assets\scripts\resetScore.cs" Line="7" Column="17" />
+      <File FileName="Assets\scripts\main.cs" Line="17" Column="18" />
+      <File FileName="Assets\scripts\gameManagement.cs" Line="1" Column="1" />
       <File FileName="Assets\scripts\changeScene.cs" Line="1" Column="1" />
       <File FileName="Assets\scripts\scenesManager.cs" Line="1" Column="1" />
     </Files>
