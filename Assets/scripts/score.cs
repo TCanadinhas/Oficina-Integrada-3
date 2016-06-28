@@ -2,7 +2,8 @@
 using System.Collections;
 
 public class score : MonoBehaviour { 
-	
+
+	/*
 	public int newScore = 0;
 	public int highScore = 0;
 	string highScoreKey = "HighScore";
@@ -23,5 +24,5 @@ public class score : MonoBehaviour {
 			PlayerPrefs.Save();
 		}
 	}
-	
+	*/
 }

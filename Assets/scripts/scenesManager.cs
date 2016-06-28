@@ -9,7 +9,7 @@ public class scenesManager : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 
-		deadline = 2;
+		deadline = PlayerPrefs.GetFloat("deadline");
 		currentLevel = Application.loadedLevel;
 	}
 
